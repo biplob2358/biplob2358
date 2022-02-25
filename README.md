@@ -28,7 +28,7 @@ Skills: Python / Java / C / HTML / CSS / Bootstrap/Ms Office
 ### Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=biplob2358)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biplob2358)](![image](https://user-images.githubusercontent.com/96138959/155675190-7f44e603-b357-4415-b468-a919293b5cc9.png)
+[![Top Langs]((https://github-readme-stats.vercel.app/api?username=biplob2358&theme=dark&show_icons=true)](![image](https://user-images.githubusercontent.com/96138959/155675190-7f44e603-b357-4415-b468-a919293b5cc9.png)
 )
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=biplob2358&show_icons=true)  
