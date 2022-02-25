@@ -37,6 +37,6 @@ Skills: Python / Java / C / HTML / CSS / Bootstrap/Ms Office
 ![GitHub metrics](https://metrics.lecoq.io/biplob2358)  
 
 ### Streak Sats:
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=biplob2358)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=biplob2358&theme=monokai&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/biplob2358)  
