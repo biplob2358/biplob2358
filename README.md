@@ -42,8 +42,7 @@ Skills: Python / Java / C / HTML / CSS / Bootstrap/Ms Office
 
 
 
-<a href="https://wakatime.com/badge/user/a643d8ad-38ca-4454-a372-2cc9e23485fe/project/becb5edf-d729-46fe-91a6-627652dfcc33"><img src="https://wakatime.com/badge/user/a643d8ad-38ca-4454-a372-2cc9e23485fe/project/becb5edf-d729-46fe-91a6-627652dfcc33.svg" alt="wakatime"></a>
-
+<a href="https://wakatime.com/badge/github/biplob2358/JavaScript_practice"><img src="https://wakatime.com/badge/github/biplob2358/JavaScript_practice.svg" alt="wakatime"></a>
 
 
 
