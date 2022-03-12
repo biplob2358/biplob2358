@@ -11,7 +11,7 @@ Skills: Python / Java / C / HTML / CSS / Bootstrap/Ms Office
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Resource 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: Social Media 
+- 📫 How to reach me: biplob2358@gmail.com 
 - ⚡ Fun fact: When the moon is directly overhead, you will weigh slightly less. 
 
 <h3 align="left">Languages and Tools:</h3>
