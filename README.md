@@ -41,7 +41,7 @@ Skills: Python / Java / C / HTML / CSS / Bootstrap/Ms Office
 ![GitHub metrics](https://metrics.lecoq.io/biplob2358)  
 
 
-<img src="https://camo.githubusercontent.com/065718aa6b2893af602f5ddd02fcf2dc828047cfb4c2cd2f6fafcb20159e49c2/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d41736875746f73683030373130267468656d653d64726163756c6126617265613d7472756526686964655f626f726465723d747275652367682d6461726b2d6d6f64652d6f6e6c79" width="100%" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=biplob2358&amp;theme=dracula&amp;area=true&amp;hide_border=true#gh-dark-mode-only" style="max-width: 100%;">
+
 
 
 
