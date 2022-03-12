@@ -30,7 +30,7 @@ Skills: Python / Java / C / HTML / CSS / Bootstrap/Ms Office
 ### Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=biplob2358&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biplob2358&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biplob2358&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=biplob2358&theme=dark&show_icons=true) 
 ### Streak Sats:
