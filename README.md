@@ -32,7 +32,7 @@ Skills: Python / Java / C / HTML / CSS / Bootstrap/Ms Office
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biplob2358&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=biplob2358&theme=dark&show_icons=true) 
+![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=biplob2358&theme=radical&show_icons=true) 
 ### Streak Sats:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=biplob2358&theme=monokai&show_icons=true)  
 
