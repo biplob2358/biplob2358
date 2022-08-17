@@ -1,6 +1,6 @@
 ### Hi there 👋, BIplob Ghosh
 #### Always I am ready to do somthing exceptional.
-![Always I am ready to do somthing exceptional.](https://media-exp1.licdn.com/dms/image/C5616AQFGdqYUnLGegw/profile-displaybackgroundimage-shrink_200_800/0/1645720939306?e=1651104000&v=beta&t=HEdoDGl4Bett5FudhpyJQ2cuNFhLiUoNoZIY39kyzvk)
+![Always I am ready to do somthing exceptional.](https://media-exp1.licdn.com/dms/image/C5616AQFGdqYUnLGegw/profile-displaybackgroundimage-shrink_350_1400/0/1645720939306?e=1666224000&v=beta&t=ATQeUICb1jPl1P8Yjod4PACoM9Swq6hPslTeCSFGO_c)
 
 Hey, I am Biplob Kumer Ghosh. I was born on 2 March in Jessore district. I am the youngest child of parents. Currently I am studying in Daffodil International University at the department of Computer Science & Engineering in semester of 11th.
 
