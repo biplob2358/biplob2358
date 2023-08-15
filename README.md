@@ -90,7 +90,9 @@ I am skilled in 𝐑𝐞𝐚𝐜𝐭𝐉𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁,𝐍�
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplob2358&theme=radical&show_icons=true" alt="biplob2358"/></p>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=biplob2358&show_icons=true&locale=en&theme=nightowl&hide_border=true" width="100%"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=biplob2358&theme=tokyonight&hide_border=true" alt="biplob2358"/></p>
+
+[![Biplob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biplob2358&theme=react-dark)](https://github.com/biplob2358/github-readme-activity-graph)
 
 
 
