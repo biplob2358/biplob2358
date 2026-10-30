@@ -1,104 +1,184 @@
-# Hey there :wave:
+# Biplob Ghosh
 
-<img src="https://i.ibb.co/h1Y3CJw/1670483230930.jpg" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/biplob2358/count.svg" />
-</p>
-
-Hey! I am  [Biplob Ghosh](https://www.linkedin.com/in/biplob971) . I have completed my undergraduation from Daffodil International University,Department of Computer Science and Engineering. I am a passionate 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. Already finished some attractive functionality projects. 
-
-I am skilled in 𝐑𝐞𝐚𝐜𝐭𝐉𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁,𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬𝐉𝐬, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩,
-
-- 🔭 I’m currently working on ReactJS 
-- 🌱 I’m currently learning NextJS 
-- 👯 I’m looking to collaborate on Web Application 
-- 🤔 I’m looking for help with Resource 
-- 💬 Ask me about MERN Stack Development
-- 📫 How to reach me: biplob2358@gmail.com 
-- ⚡ Fun fact: When the moon is directly overhead, you will weigh slightly less
-
-<br>
-<br>
-
-
-### <p align="center">Contact Me</P>
 <p align="center">
-<a href="https://www.linkedin.com/in/biplob971/"><img alt="LinkedIn" src="https://img.shields.io/badge/Biplob Ghosh-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/biplob.971/"><img alt="Facebook" src="https://img.shields.io/badge/Biplob Ghosh-facebook-blue?style=flat&logo=facebook"></a>
-<a href="mailto:biplob2358@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-biplob2358@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.instagram.com/biplob.971/"><img alt="Instagram" src="https://img.shields.io/badge/Biplob Ghosh-blue?style=flat&logo=instagram"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Backend+Engineering+Enthusiast;Building+Scalable+Digital+Products;Turning+Ideas+Into+Production+Software" alt="Typing SVG" />
 </p>
 
-<br>
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/biplob971">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://biplob-portfolio.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:biplob2358@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<h3 align="center">Languages & Frameworks:</h3>
+---
 
-<div align="center">
- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/> 
- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/> 
- <img src="https://cdn.iconscout.com/icon/free/png-48/bootstrap-7-1175254.png"/> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.svg.png"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/48px-React-icon.svg.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-  <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" width="48"/> 
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/mongodb_plain_wordmark_logo_icon_146423.png"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/48/firebase_logo_icon_171157.png"/> 
-  <img src="https://karmanivero.us/assets/images/logo-vercel.png" height="48"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/java_original_logo_icon_146458.png"/>
-  <img src="https://cdn.icon-icons.com/icons2/112/PNG/48/python_18894.png"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/c_original_logo_icon_146611.png"/>
-   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/java_original_logo_icon_146458.png"/>
-</div>
+### `$ whoami`
 
-<br>
-<br>
+I'm **Biplob**, a software engineer from Bangladesh who enjoys turning complex ideas into practical software.
 
-<h3 align="center">Tools:</h3>
+Currently working as a **Mid-level Software Developer at XIIA WORKPLACE ApS**.
 
-<div align="center">
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/48/visualstudiocode_93981.png"/>
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/48/eclipse_94656.png"/>
-  <img src="https://cdn.icon-icons.com/icons2/2667/PNG/48/jupyter_app_icon_161280.png"/>
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/48/pycharm_93936.png"/>
-  <img src="https://cdn.icon-icons.com/icons2/673/PNG/48/github_icon-icons.com_60477.png"/>
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/48/git_93585.png"/>
-  <img src="https://cdn.icon-icons.com/icons2/1243/PNG/48/adobephotoshopicon_84144.png"/>
-  <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" height="48"/>
-  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/48/figma_logo_icon_147289.png"/> 
-   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/48/android_studio_macos_bigsur_icon_189484.png"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_netlify_icon_130354.png"/>
-  
+My journey started with frontend development, evolved into backend engineering, and continues into infrastructure and DevOps.
 
-</div>
+I enjoy working across the entire application lifecycle — from designing user interfaces and building APIs to managing databases, integrating services, and deploying production applications.
 
+```ts
+const biplob = {
+  role: "Mid-level Software Developer",
+  focus: ["Backend Engineering", "Full-Stack Development"],
+  currentlyExploring: ["DevOps", "Cloud Infrastructure", "System Design"],
+  philosophy: "Build it well. Keep it simple. Make it scale.",
+  location: "Bangladesh",
+};
+```
 
+---
 
-<h3 align="center">Badges:</h3>
+### ⚡ What I build
 
-<div align="center">
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Backend Systems</h3>
+      <p>Scalable APIs, database architecture, authentication, background jobs, and real-time services.</p>
+    </td>
+    <td width="50%">
+      <h3>🖥️ Full-Stack Products</h3>
+      <p>Production-ready web applications, SaaS platforms, dashboards, and business solutions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ Data & Infrastructure</h3>
+      <p>PostgreSQL, Redis, database optimization, cloud storage, and application monitoring.</p>
+    </td>
+    <td width="50%">
+      <h3>🚀 Engineering & Delivery</h3>
+      <p>Code quality, performance testing, deployment workflows, and production troubleshooting.</p>
+    </td>
+  </tr>
+</table>
 
-</div>
-<br>
-<h2 align="center"> Stats:</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplob2358&show_icons=true&locale=en&theme=radical&show_icons=true" alt="biplob2358"/></p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=biplob2358&show_icons=true&locale=en&theme=radical&show_icons=true" alt="biplob2358" /></p>
+### 🏗️ Selected Work
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplob2358&theme=radical&show_icons=true" alt="biplob2358"/></p>
+*Some of the products and platforms I've contributed to professionally.*
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=biplob2358&theme=tokyonight&hide_border=true" alt="biplob2358"/></p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎵 Soundmade</h3>
+      <strong>Music & Creator Platform</strong>
+      <p>Working across backend services, GraphQL APIs, database architecture, media processing, and background jobs.</p>
+      <code>Node.js · TypeScript · PostgreSQL · GraphQL · BullMQ</code>
+    </td>
+    <td width="50%">
+      <h3>🍽️ Foodime</h3>
+      <strong>Restaurant & POS Platform</strong>
+      <p>Building restaurant workflows, backend services, real-time features, and payment integrations.</p>
+      <code>Node.js · TypeScript · PostgreSQL · Redis · Socket.IO</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💻 Kiibee</h3>
+      <strong>Full-Stack Application</strong>
+      <p>Contributing to both frontend and backend development, application features, and API integrations.</p>
+      <code>Frontend · Backend · API Development</code>
+    </td>
+    <td width="50%">
+      <h3>🏪 Store Sales</h3>
+      <strong>SaaS & POS Solution</strong>
+      <p>Experience contributing to a store sales and point-of-sale management application.</p>
+      <code>SaaS · Business Applications · POS</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>🛒 Akij Fair Value</h3>
+      <strong>E-commerce Platform</strong>
+      <p>Contributed to an e-commerce project focused on online shopping and business functionality.</p>
+    </td>
+  </tr>
+</table>
 
-[![Biplob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biplob2358&theme=react-dark)](https://github.com/biplob2358/github-readme-activity-graph)
+---
 
+### 🧰 My Engineering Toolkit
 
+**Frontend**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,redux,ts,js,html,css,tailwind" />
+</p>
 
+**Backend & Data**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis,firebase" />
+</p>
 
+**Infrastructure & Tools**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,nginx,linux,bash,vscode" />
+</p>
 
+**Also working with**
 
+`Drizzle ORM` · `Zod` · `Socket.IO` · `BullMQ` · `Auth0` · `Sentry` · `FFmpeg` · `PM2` · `DigitalOcean Spaces`
+
+---
+
+### 📊 The GitHub Side of Things
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biplob2358&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplob2358&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8" />
+</p>
+
+<p align="center">
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=biplob2358&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=biplob2358&bg_color=00000000&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🌱 Currently Exploring
+
+- System design and scalable backend architecture
+- Advanced PostgreSQL performance and query optimization
+- Docker, CI/CD, and deployment automation
+- Cloud infrastructure and application observability
+- Building reliable distributed services
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in discussing software engineering, backend architecture, SaaS products, and interesting technical challenges.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/biplob971">LinkedIn</a> ·
+  <a href="https://biplob-portfolio.web.app">Portfolio</a> ·
+  <a href="mailto:biplob2358@gmail.com">Email</a> ·
+  <a href="https://github.com/biplob2358">GitHub</a>
+</p>
+
+<p align="center">
+  <i>"Great software isn't just written. It's thoughtfully engineered."</i>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by. Happy coding! 🚀</sub>
+</p>
